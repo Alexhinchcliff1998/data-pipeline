@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "  Sample Widget  ",
+      "price": 12.5,
+      "category": "Tools"
+    },
+    {
+      "id": 2,
+      "title": "Sample Cable",
+      "price": "4.25",
+      "category": " ELECTRONICS "
+    },
+    {
+      "id": 3,
+      "title": "Bad row",
+      "price": -5,
+      "category": "tools"
+    }
+  ]
+}
